@@ -1,0 +1,33 @@
+h1{
+    color:red;
+}
+.bl1{
+    display: flex;
+    border-width: 2px;
+    border-color: crimson;
+    border-style: solid;
+    background-color:blue ;
+}
+.bl2{
+    background-color: brown;
+    border-color:white ;
+    margin: 1px;
+    width: 300px;
+}
+.bl3{
+    border-width: 3px;
+    border-color: palevioletred;
+    border-style: solid;
+    background-color: palevioletred;
+}
+.bl3{
+    color: purple;
+    border-style:groove;
+    border-color:purple;
+}
+
+h2{
+    color:purple;
+    border-color: black;
+    border-style: groove;
+}
